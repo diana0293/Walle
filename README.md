@@ -18,3 +18,5 @@ Inicio (padre: ninguno, hijo: encenderRobot)
 
 
 González Cruz Diana
+Hernandes Avalos Sofia
+López Colula Luis Fernando
